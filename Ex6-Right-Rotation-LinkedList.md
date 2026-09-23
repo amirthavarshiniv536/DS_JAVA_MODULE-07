@@ -4,7 +4,7 @@ To write a Java  program to:
 Create a singly linked list.
 Rotate the linked list to the right by k positions.
 Display the rotated linked list.
-## Date: 04-08-2026
+## Date: 06-08-2026
 ## Algorithm
 1. start the program.
 2. Handle edge cases.
