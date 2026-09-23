@@ -2,6 +2,7 @@
 ## AIM:
 To write a program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
+## Date: 06-08-2026
 ## Algorithm
 ```
 1. Start the program.
