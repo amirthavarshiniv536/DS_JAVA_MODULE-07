@@ -1,7 +1,7 @@
 # Ex7 Removal of Nodes with a Specific Value from a Linked List
 ## AIM:
 To write a java  program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-## Date: 05-08-2026
+## Date: 06-08-2026
 ## Algorithm
 1. Start the program.
 2. Create dummy head.
